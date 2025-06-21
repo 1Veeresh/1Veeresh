@@ -1,4 +1,4 @@
-👋 Hi, I'm Veeresh — 
+## **Veeresh M** 
 
 a Senior Software Engineer with experience in Java, JavaScript, and Python (basics), working across enterprise CRM platforms like Salesforce and hands-on in cloud environments, data automation, and backend development.
 
