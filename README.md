@@ -14,4 +14,4 @@ Java | JavaScript | Python | MySQL | SOQL | Git | Postman | JIRA | SVN | Salesfo
 
 📈 I’m currently exploring Data Science & Machine Learning to strengthen my capabilities in AI-driven enterprise apps.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/your-profile) | 📧 veeresh.mamdapur@gmail.com
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/veeresh-mamdapur/) | 📧 veeresh.mamdapur@gmail.com
