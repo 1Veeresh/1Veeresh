@@ -1,4 +1,6 @@
-👋 Hi, I'm Veeresh — a Senior Software Engineer with experience in Java, JavaScript, and Python (basics), working across enterprise CRM platforms like Salesforce and hands-on in cloud environments, data automation, and backend development.
+👋 Hi, I'm Veeresh — 
+
+a Senior Software Engineer with experience in Java, JavaScript, and Python (basics), working across enterprise CRM platforms like Salesforce and hands-on in cloud environments, data automation, and backend development.
 
 🔧 I enjoy building scalable business solutions, automating processes, and working with both structured and semi-structured data using SQL, JSON, XML, and XSD. I believe in continuous learning and bringing innovation into everything I do.
 
@@ -14,4 +16,6 @@ Java | JavaScript | Python | MySQL | SOQL | Git | Postman | JIRA | SVN | Salesfo
 
 📈 I’m currently exploring Data Science & Machine Learning to strengthen my capabilities in AI-driven enterprise apps.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/veeresh-mamdapur/) | 📧 veeresh.mamdapur@gmail.com
+- LinkedIn: [linkedin.com/in/yourname]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/veeresh-mamdapur/))  
+- Email: [veeresh.mamdapur@gmail.com](mailto:veeresh.mamdapur@gmail.com)  
+- GitHub: [github.com/1Veeresh](https://github.com/1Veeresh)
